@@ -65,7 +65,7 @@
 <!-- LIVE DEMO -->
 
 ## 🚀 Live Demo <a name="live-demo"></a>
-coming soon
+(https://tamoorsaeed22.github.io/Awsome-books-ES6/)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
