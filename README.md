@@ -99,7 +99,7 @@ Clone this repository to your desired folder:
 ```cd my-folder```
 
 
-```git clone git@github.com:tamoorsaeed22/Books-ES6.git```
+```git clone git@github.com:tamoorsaeed22/Awsome-books-ES6.git```
 
 
 ### Install
@@ -116,7 +116,7 @@ Install this project with:
 ```cd my-folder```
 
 
-```git clone git@github.com:tamoorsaeed22/Books-ES6.git```
+```git clone git@github.com:tamoorsaeed22/Awsome-books-ES6.git```
 
 
 ### Install
